@@ -1,4 +1,4 @@
-package eighteen;
+package eighteen.demo;
 
 import java.lang.reflect.Proxy;
 

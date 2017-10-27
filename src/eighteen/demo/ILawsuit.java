@@ -1,4 +1,4 @@
-package eighteen;
+package eighteen.demo;
 
 public interface ILawsuit {
 	void submit();

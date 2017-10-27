@@ -1,4 +1,4 @@
-package eighteen;
+package eighteen.demo;
 
 public class Lawyer implements ILawsuit {
 	private ILawsuit mLawsuit;//持有一个具体被代理者的引用

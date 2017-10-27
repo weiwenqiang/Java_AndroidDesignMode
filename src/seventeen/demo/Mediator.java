@@ -1,4 +1,4 @@
-package seventeen;
+package seventeen.demo;
 /**
  * ³éÏóÖĞ½éÕß
  */

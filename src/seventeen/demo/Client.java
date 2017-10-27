@@ -1,4 +1,4 @@
-package seventeen;
+package seventeen.demo;
 /**
  * 设计模式-中介模式
  * @author wwq

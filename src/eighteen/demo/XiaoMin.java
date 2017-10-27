@@ -1,4 +1,4 @@
-package eighteen;
+package eighteen.demo;
 
 public class XiaoMin implements ILawsuit{
 
