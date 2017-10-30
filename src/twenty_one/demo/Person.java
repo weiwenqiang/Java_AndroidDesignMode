@@ -1,0 +1,5 @@
+package twenty_one.demo;
+
+public abstract class Person {
+	public abstract void dressed();
+}
